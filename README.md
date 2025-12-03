@@ -1,20 +1,108 @@
-# 💫 About Me:
-🔭 I’m currently building Roses & Thorns, a social journaling platform where people can share the highlights and challenges of their day, and soon, it will also include features for digital scrapbooking to make reflection even more personal and creative. I’m also developing an application for Merch Inc., a fashion organization I’m involved with, to streamline their model call process!<br>🌱 I’m currently learning more about Supabase and frameworks like TailwindCSS to make development and styling more efficient.<br>💬 Ask me about music, specifically indie and alternative, I can talk about it for hours!<br>⚡ Fun fact, I’m a huge foodie and love trying new foods…just no fish!
+<!-- Banner -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=F7C6D0&height=140&section=header&text=Hi%20I'm%20Mario%20👋&fontSize=42&fontColor=333" />
+</div>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/marionolascocortez) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:marionolascocortez@gmail.com) 
+<br>
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mmari0c&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=mmari0c&theme=shadow_green&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mmari0c&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+## 🌸 About Me  
+I'm Mario — a CS + Math minor student who loves building **aesthetic, meaningful, and community-focused web apps**.  
+I’m passionate about creating tools that help people reflect, learn, or express themselves — whether that's journaling, fashion, or youth empowerment.
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+✨ **Web Dev • Education • Design • Community**
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
+## 🚀 What I'm Working On  
+- 🌹 **Roses & Thorns** — a social journaling platform for sharing daily highlights & challenges  
+  → now expanding into **digital scrapbooking**!  
+- 👗 **Merch Inc Model Call App** — streamlining the designer–model selection process  
+- 🌱 Learning more about **Supabase**, **Next.js**, and **Tailwind** to build cleaner, faster, prettier apps  
+
+---
+
+## 🛠️ Tech Stack  
+
+### **Languages**
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Swift](https://img.shields.io/badge/-Swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+### **Web & Frameworks**
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next JS](https://img.shields.io/badge/-Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000?style=for-the-badge&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### **Backend / Tools**
+![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![NPM](https://img.shields.io/badge/-NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+### **Data / ML**
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-ffffff?style=for-the-badge&logo=Matplotlib&logoColor=black)
+
+### **Design**
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+---
+
+## 📌 Featured Projects  
+
+### 🌹 **Roses & Thorns**
+A social journaling + digital scrapbooking platform for self-reflection  
+**React • Supabase • Tailwind**
+
+### 👗 **Merch Inc Model Call App**
+A fashion-club tool that streamlines designer–model selection  
+**React • Supabase • CSV Export Tools**
+
+### 🌱 **Umoja (Live Pura Vida)**
+A youth-growth and identity-building platform  
+**Next.js • Supabase • Figma Design System**
+
+(If you want, I can generate custom project banners for each!)
+
+---
+
+## 📊 GitHub Stats  
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mmari0c&show_icons=true&theme=rose_pine)
+  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mmari0c&layout=compact&theme=rose_pine)
+
+</div>
+
+---
+
+## 🎧 Fun Facts About Me  
+- 🍜 I’m a foodie — I’ll try almost anything… **except fish!!**  
+- 🎶 Ask me about music — I can talk about it for hours  
+- 🎨 I love clean, aesthetic UI and building apps that *feel nice*  
+- 🎮 I teach kids programming using Minecraft and Python  
+- ✨ I love blending creativity + tech + community impact  
+
+---
+
+## 🌐 Let's Connect  
+<a href="https://marionolasco.com" target="_blank">🌐 Personal Website</a>  
+<a href="https://www.linkedin.com/in/mario-nolasco" target="_blank">💼 LinkedIn</a>  
+📧 **mario.nolasco@unt.edu**
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=F7C6D0&height=120&section=footer" />
+</div>
 
 
 
