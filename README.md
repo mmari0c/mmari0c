@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Roses & Thorns a social journaling platform for people to share their roses & thorns of their day. Also working on<br>🌱 I’m currently learning more about Supabase and frameworks like TailwindCSS to make styling more efficient<br>💬 Ask me about MUSIC!<br>⚡ Fun fact, I'm a foodie, I love trying new foods, just no fish!!!
+🔭 I’m currently working on Roses & Thorns a social journaling platform for people to share their roses & thorns of their day. Also working on a application for Merch Inc, a fashion organization i'm involved in to streamline the model call process!<br>🌱 I’m currently learning more about Supabase and frameworks like TailwindCSS to make styling more efficient<br>💬 Ask me about MUSIC!<br>⚡ Fun fact, I'm a foodie, I love trying new foods, just no fish!!!
 
 
 ## 🌐 Socials:
