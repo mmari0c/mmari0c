@@ -65,10 +65,9 @@ I’m passionate about creating tools centered around people. To reflect, learn,
 ---
 
 ## 🎧 Fun Facts About Me  
-- 🍜 I’m a foodie — I’ll try almost anything… **except fish!!**  
-- 🎶 Ask me about music — I can talk about it for hours  
-- 🎨 I love clean, aesthetic UI and building apps that *feel nice*  
-- 🎮 I teach kids programming using Minecraft and Python  
+- 🍜 I’m a foodie, I’ll try almost anything… **except fish!!**  
+- 🎶 Ask me about music, specifically indie and alternative, I can talk about it for hours.
+- 🎨 I love clean, aesthetic UI and building apps that *feel nice*   
 - ✨ I love blending creativity + tech + community impact  
 
 ---
