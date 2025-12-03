@@ -96,11 +96,4 @@ A youth-growth and identity-building platform
 <a href="https://www.linkedin.com/in/mario-nolasco" target="_blank">💼 LinkedIn</a>  
 📧 **mario.nolasco@unt.edu**
 
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=F7C6D0&height=120&section=footer" />
-</div>
-
-
 
