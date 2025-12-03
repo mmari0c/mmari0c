@@ -52,24 +52,6 @@ I’m passionate about creating tools centered around people. To reflect, learn,
 
 ---
 
-## 📌 Featured Projects  
-
-### 🌹 **Roses & Thorns**
-A social journaling + digital scrapbooking platform for self-reflection  
-**React • Supabase • Tailwind**
-
-### 👗 **Merch Inc Model Call App**
-A fashion-club tool that streamlines designer–model selection  
-**React • Supabase • CSV Export Tools**
-
-### 🌱 **Umoja (Live Pura Vida)**
-A youth-growth and identity-building platform  
-**Next.js • Supabase • Figma Design System**
-
-(If you want, I can generate custom project banners for each!)
-
----
-
 ## 📊 GitHub Stats  
 
 <div align="center">
