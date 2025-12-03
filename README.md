@@ -1,6 +1,6 @@
 <!-- Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=F7C6D0&height=140&section=header&text=Hi%20I'm%20Mario%20👋&fontSize=42&fontColor=333" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=F7C6D0&height=140&section=header&text=Hi!%20I'm%20Mario%20👋&fontSize=42&fontColor=333" />
 </div>
 
 <br>
