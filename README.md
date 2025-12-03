@@ -15,7 +15,7 @@ I’m passionate about creating tools centered around people. To reflect, learn,
 - 🌹 **Roses & Thorns** — a social journaling platform for sharing daily highlights & challenges  
   → now expanding into **digital scrapbooking**!  
 - 👗 **Merch Inc Model Call App** — streamlining the designer–model selection process  
-- 🌱 Learning more about **Figma**, **Supabase**, and **Tailwind** to build cleaner, faster, prettier apps  
+- 🌱 Learning more about **Figma**, **Supabase**, and **Tailwind** to build cleaner, faster, and prettier apps  
 
 ---
 
