@@ -6,8 +6,8 @@
 <br>
 
 ## 🌸 About Me  
-I'm Mario — a CS + Math minor student who loves building **aesthetic, meaningful, and community-focused web apps**.  
-I’m passionate about creating tools that help people reflect, learn, or express themselves — whether that's journaling, fashion, or youth empowerment.
+I'm Mario, a CS + Math minor student who loves building **aesthetic, meaningful, and community-focused web apps**.  
+I’m passionate about creating tools centered around people. To reflect, learn, or express themselves — whether that's journaling, fashion, or youth empowerment.
 
 ✨ **Web Dev • Education • Design • Community**
 
