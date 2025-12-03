@@ -54,19 +54,19 @@ I’m passionate about creating tools centered around people. To reflect, learn,
 
 ---
 
-## 📊 GitHub Stats  
-
-![](https://github-readme-stats.vercel.app/api?username=mmari0c&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=mmari0c&theme=shadow_green&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mmari0c&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
----
-
 ## 🎧 Fun Facts About Me  
 - 🍜 I’m a foodie, I’ll try almost anything… **except fish!!**  
 - 🎶 Ask me about music, specifically indie and alternative, I can talk about it for hours.
 - 🎨 I love clean, aesthetic UI and building apps that *feel nice*   
 - ✨ I love blending creativity + tech + community impact  
+
+---
+
+## 📊 GitHub Stats  
+
+![](https://github-readme-stats.vercel.app/api?username=mmari0c&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=mmari0c&theme=shadow_green&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mmari0c&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
 
