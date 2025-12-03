@@ -1,6 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Roses & Thorns a social journaling platform for people to share their roses & thorns of their day. Also working on a application for Merch Inc, a fashion organization i'm involved in to streamline the model call process!<br>🌱 I’m currently learning more about Supabase and frameworks like TailwindCSS to make styling more efficient<br>💬 Ask me about MUSIC!<br>⚡ Fun fact, I'm a foodie, I love trying new foods, just no fish!!!
-
+🔭I’m currently building Roses & Thorns, a social journaling platform where people can share the highlights and challenges of their day. I’m also developing an application for Merch Inc., a fashion organization I’m involved with, to streamline their model call process!<br>🌱 I’m currently learning more about Supabase and frameworks like TailwindCSS to make development and styling more efficient.<br>💬 Ask me about music, specifically indie and alternative, I can talk about it for hours!<br>⚡ Fun fact, I’m a huge foodie and love trying new foods…just no fish!
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/marionolascocortez) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:marionolascocortez@gmail.com) 
