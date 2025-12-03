@@ -14,7 +14,7 @@ I’m passionate about creating tools centered around people. To reflect, learn,
 ## 🚀 What I'm Working On  
 - 🌹 **Roses & Thorns** — a social journaling platform for sharing daily highlights & challenges  
   → now expanding into **digital scrapbooking**!  
-- 👗 **Merch Inc Model Call** — an application that streamlines and digitizes the designer–model selection process for Merch Inc.
+- 👗 **Merch Inc Model Call** — an application that streamlines and digitizes the designer–model selection process for Merch Inc
 - 🌱 Learning more about **Figma**, **Supabase**, and **Tailwind** to build cleaner, faster, and prettier apps  
 
 ---
