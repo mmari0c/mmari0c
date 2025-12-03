@@ -55,13 +55,10 @@ I’m passionate about creating tools centered around people. To reflect, learn,
 
 ## 📊 GitHub Stats  
 
-<div align="center">
+![](https://github-readme-stats.vercel.app/api?username=mmari0c&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=mmari0c&theme=shadow_green&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mmari0c&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mmari0c&show_icons=true&theme=rose_pine)
-  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mmari0c&layout=compact&theme=rose_pine)
-
-</div>
 
 ---
 
