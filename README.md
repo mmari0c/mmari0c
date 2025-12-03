@@ -71,8 +71,6 @@ I’m passionate about creating tools centered around people. To reflect, learn,
 ---
 
 ## 🌐 Let's Connect  
-<a href="https://marionolasco.com" target="_blank">🌐 Personal Website</a>  
-<a href="https://www.linkedin.com/in/mario-nolasco" target="_blank">💼 LinkedIn</a>  
-📧 **mario.nolasco@unt.edu**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/marionolascocortez) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:marionolascocortez@gmail.com)
 
 
