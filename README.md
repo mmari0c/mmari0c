@@ -6,7 +6,7 @@
 <br>
 
 ## 💫 About Me  
-I'm Mario, a CS + Math minor student who loves building **aesthetic, meaningful, and community-focused web apps**.  
+I'm Mario, a CS + Math minor student who loves building aesthetic, meaningful, and community-focused web apps.  
 I’m passionate about creating people-centered tools that help others reflect, learn, and express themselves, whether through journaling, fashion, or youth empowerment.
 
 ---
@@ -14,7 +14,7 @@ I’m passionate about creating people-centered tools that help others reflect, 
 ## 🚀 What I'm Working On  
 - 🌹 **Roses & Thorns** — a social journaling platform for sharing daily highlights & challenges  
 - 👗 **Merch Inc Model Call** — an application that streamlines and digitizes the designer–model selection process for Merch Inc
-- 🌱 Learning more about **Figma**, **Supabase**, and **Tailwind** to build cleaner, faster, and prettier apps  
+- 🌱 Learning more about Figma, Supabase, and Tailwind to build cleaner, faster, and prettier apps  
 
 ---
 
@@ -55,7 +55,7 @@ I’m passionate about creating people-centered tools that help others reflect, 
 ---
 
 ## 🎧 Fun Facts About Me  
-- 🍜 I’m a foodie, I’ll try almost anything… **except fish!!**  
+- 🍜 I’m a foodie, I’ll try almost anything… except fish!! 
 - 🎶 Ask me about music, specifically indie and alternative, I can talk about it for hours.
 - 🎨 I love clean, aesthetic UI and building apps that *feel nice*   
 - ✨ I love blending creativity + tech + community impact  
