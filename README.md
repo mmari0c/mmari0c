@@ -12,9 +12,9 @@ I’m passionate about creating people-centered tools that help people, whether 
 ---
 
 ## 🚀 What I'm Working On  
-🌹 **Roses & Thorns** — a social journaling platform for sharing daily highlights & challenges  
-👗 **Merch Inc Model Call** — an application that streamlines and digitizes the designer–model selection process for Merch Inc
-🌱 Learning more about Figma, Supabase, and Tailwind to build cleaner, faster, and prettier apps  
+- 🌹 **Roses & Thorns** — a social journaling platform for sharing daily highlights & challenges  
+- 👗 **Merch Inc Model Call** — an application that streamlines and digitizes the designer–model selection process for Merch Inc
+- 🌱 Learning more about Figma, Supabase, and Tailwind to build cleaner, faster, and prettier apps  
 
 ---
 
