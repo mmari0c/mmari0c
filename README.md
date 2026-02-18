@@ -6,7 +6,8 @@
 <br>
 
 ## 💫 About Me  
-I'm Mario Nolasco, a CS + Math minor student at the University of North Texs who loves building meaningful, community-focused, aesthetic pleasing web apps.  
+I'm Mario Nolasco, a CS + Math minor student at the University of North Texs who loves building meaningful, community-focused, aesthetic pleasing web apps.
+
 I’m passionate about creating people-centered tools that help people, whether that be through journaling, fashion, or youth empowerment.
 
 ---
